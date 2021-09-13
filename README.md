@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-defvcnfdrvndobvmnfgb
+I want to learn to be a good coder.
